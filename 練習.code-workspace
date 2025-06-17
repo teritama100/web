@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "study",
+		"explorer.autoOpenDroppedFile": false,
+		"explorer.enableUndo": false
+	}
+}
